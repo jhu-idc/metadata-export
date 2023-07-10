@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2090",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:35:33+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Swann, Don, 1911-1998"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.loc.gov/authorities/names/n84019096"
+      },
+      {
+        "@id": "http://viaf.org/viaf/208116397"
+      }
+    ]
+  }
+]

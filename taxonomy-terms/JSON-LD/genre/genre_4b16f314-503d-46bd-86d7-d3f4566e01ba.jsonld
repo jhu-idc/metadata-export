@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2023-01-12T16:28:32+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "photographs"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://vocab.getty.edu/page/aat/300046300"
+      },
+      {
+        "@id": "http://id.loc.gov/authorities/genreForms/gf2017027249"
+      }
+    ]
+  }
+]

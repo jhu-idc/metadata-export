@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/16",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "High quality representation of the Object, appropriate for generating derivatives or other additional processing"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Intermediate File"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-10-08T08:39:27+00:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1525",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:35:33+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Leonard, Richard C. (Richard Christopher), 1918-"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://viaf.org/viaf/23657471"
+      }
+    ]
+  }
+]

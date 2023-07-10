@@ -1,0 +1,29 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/663",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2023-01-12T16:12:59+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Arizona--Grand Canyon"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.worldcat.org/fast/1240455"
+      },
+      {
+        "@id": "http://viaf.org/viaf/316429560"
+      }
+    ]
+  }
+]

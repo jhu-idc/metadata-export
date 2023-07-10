@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/279",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:33:47+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Covington & Burling"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://viaf.org/viaf/124423873"
+      },
+      {
+        "@id": "http://id.loc.gov/authorities/names/n86841506"
+      }
+    ]
+  }
+]

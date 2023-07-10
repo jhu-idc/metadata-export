@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1246",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:35:33+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Geyer, John Charles, 1906-1995"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://viaf.org/viaf/109518884"
+      },
+      {
+        "@id": "http://id.loc.gov/authorities/names/n50016539"
+      }
+    ]
+  }
+]

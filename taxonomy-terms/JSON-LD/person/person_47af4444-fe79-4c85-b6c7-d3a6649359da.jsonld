@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1455",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:35:33+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kershner, R. B. (Richard Brandon), 1913-1982"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://viaf.org/viaf/11350518"
+      },
+      {
+        "@id": "http://id.loc.gov/authorities/names/n86872664"
+      }
+    ]
+  }
+]

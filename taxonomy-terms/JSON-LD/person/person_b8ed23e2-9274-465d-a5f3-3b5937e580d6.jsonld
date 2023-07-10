@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1991",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:35:33+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sherfield, Roger Mellor Makins, Baron, 1904-1996"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://viaf.org/viaf/27559545"
+      },
+      {
+        "@id": "http://id.loc.gov/authorities/names/n90654419"
+      }
+    ]
+  }
+]

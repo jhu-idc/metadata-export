@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/312",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:33:47+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fund for Educational Excellence (Baltimore, Md.)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://viaf.org/viaf/137342534"
+      },
+      {
+        "@id": "http://id.loc.gov/authorities/names/n91080292"
+      }
+    ]
+  }
+]

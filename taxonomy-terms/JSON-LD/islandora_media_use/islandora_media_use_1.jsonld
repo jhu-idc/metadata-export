@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "<p>Technical Metadata associated with an original media file</p>\r\n"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "FITS File"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-01T18:48:03+00:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/963",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:35:33+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Buttre, John Chester, 1821-1893"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.loc.gov/authorities/names/n88131588"
+      }
+    ]
+  }
+]

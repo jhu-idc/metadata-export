@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/731",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:32:25+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "New Hampshire"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.worldcat.org/fast/1204318"
+      },
+      {
+        "@id": "http://sws.geonames.org/5164292/"
+      },
+      {
+        "@id": "http://viaf.org/viaf/155922170"
+      }
+    ]
+  }
+]

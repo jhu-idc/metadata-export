@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2153",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:35:33+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Turnbull, Grace Hill, 1880-1976"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.loc.gov/authorities/names/n79007437"
+      },
+      {
+        "@id": "http://viaf.org/viaf/60348163"
+      }
+    ]
+  }
+]

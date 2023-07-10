@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/594",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:33:47+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "University of Texas at Austin. Applied Research Laboratories"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://viaf.org/viaf/153664463"
+      },
+      {
+        "@id": "http://id.loc.gov/authorities/names/n85033066"
+      }
+    ]
+  }
+]

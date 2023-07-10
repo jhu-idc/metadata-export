@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/634",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:34:19+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "drawings (visual works)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://vocab.getty.edu/page/aat/300033973"
+      }
+    ]
+  }
+]

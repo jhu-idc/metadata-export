@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3616",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:35:01+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "COVID-19 (Disease)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.worldcat.org/fast/1984643"
+      }
+    ]
+  }
+]

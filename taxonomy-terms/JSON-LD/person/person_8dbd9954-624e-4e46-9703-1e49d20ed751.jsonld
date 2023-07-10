@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2173",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:35:33+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Location information: Paris, France"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Vernon, Frédéric de, 1858-1912"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://vocab.getty.edu/page/ulan/500078293"
+      },
+      {
+        "@id": "http://viaf.org/viaf/96238321"
+      }
+    ]
+  }
+]

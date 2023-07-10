@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3572",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:30:54+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Zhongguo gong chan dang"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.loc.gov/authorities/names/n79090028"
+      },
+      {
+        "@id": "http://viaf.org/viaf/132098431"
+      }
+    ]
+  }
+]

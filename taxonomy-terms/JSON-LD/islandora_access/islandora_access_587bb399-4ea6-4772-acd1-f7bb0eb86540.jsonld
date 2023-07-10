@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/771",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Gives editing permission for the Maps and Atlases collection."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Maps and Atlases"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2023-01-12T16:53:52+00:00"
+      }
+    ]
+  }
+]

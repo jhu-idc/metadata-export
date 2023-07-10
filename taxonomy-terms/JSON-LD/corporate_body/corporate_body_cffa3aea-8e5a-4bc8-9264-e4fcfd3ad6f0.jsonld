@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/407",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:33:47+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Johns Hopkins University. School of Professional Studies in Business and Education"
+      }
+    ]
+  }
+]

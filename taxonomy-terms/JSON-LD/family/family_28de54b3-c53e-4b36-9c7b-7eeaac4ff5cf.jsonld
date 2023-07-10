@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3666",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2023-01-12T16:48:48+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ʻĪamsilā family"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.loc.gov/authorities/names/n2022225227"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3609",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:35:01+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "College students--Religious life"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.worldcat.org/fast/868040"
+      }
+    ]
+  }
+]

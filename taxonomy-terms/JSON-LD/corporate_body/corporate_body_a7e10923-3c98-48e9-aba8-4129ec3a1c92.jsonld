@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/317",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:33:47+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Location information: Philadelphia, PA"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Gilbert & Bacon"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://viaf.org/viaf/130582664"
+      },
+      {
+        "@id": "http://id.loc.gov/authorities/names/nr95007356"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/664",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2023-01-12T16:12:59+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Armenia"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.worldcat.org/fast/1206470"
+      },
+      {
+        "@id": "http://sws.geonames.org/174982/"
+      },
+      {
+        "@id": "http://viaf.org/viaf/136032216"
+      }
+    ]
+  }
+]

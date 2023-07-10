@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/22",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Audio"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-10-08T08:39:27+00:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/755",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:32:25+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Uganda"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.worldcat.org/fast/1210282"
+      },
+      {
+        "@id": "http://sws.geonames.org/226074/"
+      },
+      {
+        "@id": "http://viaf.org/viaf/157051895"
+      }
+    ]
+  }
+]

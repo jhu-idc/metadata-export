@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1101",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:35:33+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Dieterich, Waldemar Franklin, 1876-1953"
+      }
+    ]
+  }
+]

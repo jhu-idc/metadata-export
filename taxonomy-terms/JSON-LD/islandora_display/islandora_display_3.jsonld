@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Display using the PDF.js viewer"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "PDFjs"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-10-08T08:39:27+00:00"
+      }
+    ]
+  }
+]

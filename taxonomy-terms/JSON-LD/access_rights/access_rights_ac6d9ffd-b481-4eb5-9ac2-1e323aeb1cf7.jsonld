@@ -1,0 +1,8 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/176",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/711",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:34:34+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maryland--Baltimore--East Baltimore"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://id.worldcat.org/fast/1322875"
+      },
+      {
+        "@id": "http://viaf.org/viaf/149096200"
+      }
+    ]
+  }
+]

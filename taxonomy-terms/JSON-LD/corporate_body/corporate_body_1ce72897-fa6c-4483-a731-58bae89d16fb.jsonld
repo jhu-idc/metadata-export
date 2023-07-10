@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/334",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:33:47+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Location information: Washington, DC"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Harris & Ewing"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://viaf.org/viaf/147865168"
+      },
+      {
+        "@id": "http://id.loc.gov/authorities/names/n88646991"
+      }
+    ]
+  }
+]

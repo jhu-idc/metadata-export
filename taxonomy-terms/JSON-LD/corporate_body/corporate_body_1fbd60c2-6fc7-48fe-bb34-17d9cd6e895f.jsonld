@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/626",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:33:47+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Wyatt & Nolting"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://vocab.getty.edu/page/ulan/500216724"
+      },
+      {
+        "@id": "http://viaf.org/viaf/305186340"
+      }
+    ]
+  }
+]

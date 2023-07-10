@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3581",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:32:25+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "New York (State)--New York--Queens"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://sws.geonames.org/5133266"
+      },
+      {
+        "@id": "http://viaf.org/viaf/135462352"
+      },
+      {
+        "@id": "http://id.worldcat.org/fast/1313007"
+      }
+    ]
+  }
+]

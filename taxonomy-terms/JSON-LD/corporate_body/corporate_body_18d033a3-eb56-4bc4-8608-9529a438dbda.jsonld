@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/612",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-10-08T20:33:47+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Location information: Dublin"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Werner & Son"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://viaf.org/viaf/155149853"
+      },
+      {
+        "@id": "http://id.loc.gov/authorities/names/no2007069190"
+      }
+    ]
+  }
+]

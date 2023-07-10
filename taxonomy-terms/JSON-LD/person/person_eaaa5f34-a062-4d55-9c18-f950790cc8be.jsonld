@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3667",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2023-02-06T15:55:49+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Y.R."
+      }
+    ]
+  }
+]

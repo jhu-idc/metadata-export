@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3659",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-18T18:34:40+00:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Test"
+      }
+    ]
+  }
+]
