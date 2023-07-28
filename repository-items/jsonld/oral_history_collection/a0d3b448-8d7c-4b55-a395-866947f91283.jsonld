@@ -1,0 +1,672 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3144",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/382",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2552",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1751",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1347",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2536",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2927",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/378",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/643",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/371",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2285",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3185",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2884",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1880",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/209",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1817",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1456",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/904",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2542",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2009",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/519",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/346",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2295",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1710",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/405",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/487",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/587",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/35",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1067",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2198",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1910",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/650",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2349",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/398",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/934",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3161",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/368",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "_:N96a933b1628b49c09eccddbd86e7d987",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2554",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1706",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "_:N4dd301aa03e24a409e50ca50b88c36ca",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1725",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2302",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3501",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3451",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/71",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_18cc"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/400"
+      }
+    ],
+    "http://id.loc.gov/ontologies/bibframe/place": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/756"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/38198"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/38198"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/ive": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2060?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/ivr": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1466?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "After receiving a B.A. from Hamilton College and an LL.B. from Yale University, Shale Stiller received an M.L.A. from Johns Hopkins University in 1977. Stiller spent his entire legal career in Maryland, first as a Maryland Court of Appeals clerk and later with the firms Frank, Bernstein and DLA Piper. He has taught as an adjunct professor for more than 50 years in the University of Maryland Law School. Stiller also served as the president of the Harry and Jeanette Weinberg Foundation, and as a trustee of Johns Hopkins University and Johns Hopkins Medicine. He is also active in a number of philanthropic organizations. In this interview, Stiller recounts his time at Hopkins as a student and a trustee. This oral history is part of the Hopkins Retrospective oral histories series."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2015-10-29"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2015-10-29"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1466"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2060"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "02:03:58 hh:mm:ss"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/71"
+      },
+      {
+        "@language": "en",
+        "@value": "MS.0404"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2015-03-25"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2015-03-25"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/776"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/209"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/335"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/346"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/353"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/368"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/371"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/376"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/382"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/400"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/405"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/487"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/398"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/519"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/587"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/707"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/904"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/934"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1067"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1347"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1456"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1706"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1710"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1725"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1751"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1817"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1880"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1910"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2009"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2060"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2096"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2198"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2302"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2349"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2536"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2540"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2542"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2552"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2554"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2861"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2884"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2910"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2927"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3144"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3161"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3185"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3451"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3501"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Oral history of Shale Stiller"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2285"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2295"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:37:38+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:37:38+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/650"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/643"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/71"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/35"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf749c2163bca4a2caa11ecdab37404b2",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2540",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/400",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2910",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1466",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/707",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2096",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/376",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2861",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/353",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/756",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/335",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  }
+]

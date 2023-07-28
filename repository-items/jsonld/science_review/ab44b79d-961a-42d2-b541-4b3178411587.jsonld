@@ -1,0 +1,332 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2291",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1411",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/42",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/12045",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_12ce"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1109"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/aus": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1003?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/brd": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/181?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/drt": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1218?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/nrt": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1411?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pbl": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/prd": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1584?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1907?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pro": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1242?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/622?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Two actors, James Potter and Robert Keller, open this program with a dramatization of an emergency situation in which a child is severely burned far from a treatment center. Dr. Sanford Rosenthal, pharmacologist at the National Institute of Arthritis and Metabolic Diseases in Bethesda, MD, explains the emergency treatment he developed that is recommended in the dramatic scene: one teaspoon of salt plus half teaspoon of baking soda mixed in one quart of cool water and delivered orally to the burn victim at the rate of one quart per twenty pounds of body weight during the first 24 hours and half the amount during the next 24 hours. He explains that since 1942 National Institute of Health (NIH) has studied shock that follows severe injuries such as burns, crushing injuries, and hemorrhage. A film shows the procedure that replicated these types of injuries on female albino mice. Tissue fluid and blood rushing to the wound area result in dehydration, sodium deficiency, and reduced blood volume overall and can be corrected by administering Rosenthal's fluid treatment orally or intravenously. Dr. Kehl Markley, also of NIH, explains a chart comparing the amount of saline treatment to survival rate. He then narrates a film about 1951 experiments with human burn victims in Lima, Peru, where half received saline solution by mouth and half received plasma and glucose by vein. The two groups showed no significant differences after 24 hours, although many burn victims who survive the shock later die from infection. Dr. Markley discusses a chart of burn victims showing the number of deaths/cases of those who received saline, plasma, or both. In conclusion, the Office of Civil Defense Mobilization has recommended emergency use of saline solution for burn shock in case of a major bomb disaster."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2021-06-24"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2021-06-24"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/181"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1218"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1411"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1584"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1907"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1242"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/622"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1003"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "eng",
+        "@value": "Originally broadcast as a segment of the television program Johns Hopkins File 7 on March 20, 1960 from the studios of WJZ in Baltimore, Md. Black and white. Lynn Poole, executive producer; Leo Geier, producer; Ed Fryers, director; James Chimbidis, writer; Ted Jaffee, narrator; produced by WJZ Television Station in Baltimore, Md. for the ABC Television Network. Lynn Poole, Sanford Rosenthal, Kehl Mackley, presenters. Digitized in 2004."
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "00:29:00hh:mm:ss"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/12045"
+      },
+      {
+        "@language": "en",
+        "@value": "COLL-0008"
+      },
+      {
+        "@value": "31151024442869"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1960-03-20"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "1960-03-20"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/776"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      }
+    ],
+    "http://purl.org/dc/terms/relation": [
+      {
+        "@id": "https://catalyst.library.jhu.edu/catalog/bib_2429781"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3424"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Wound shock"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2291"
+      }
+    ],
+    "http://purl.org/ontology/bibo/oclcnum": [
+      {
+        "@value": "55591448"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:41:41+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:41:41+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/635"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/12045"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/42"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1907",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1218",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/635",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3424",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1584",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1003",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/181",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "_:N07f57f88fdfc4520961c0fa426fb9398",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/622",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1242",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1823",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/378",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  }
+]

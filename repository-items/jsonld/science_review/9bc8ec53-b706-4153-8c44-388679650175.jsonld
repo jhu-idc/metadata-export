@@ -1,0 +1,324 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2291",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2711",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3331",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/39",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1195",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/997",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/635",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/11833",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_12ce"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1109"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/brd": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/288?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/drt": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1436?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/nrt": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/997?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pbl": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/prd": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1195?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1807?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pro": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/606?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Using a rocket model, Lynn Poole reviews how, as fuel is consumed, it lifts in stages and ultimately goes into free flight. He then shows a film of the rocket crew's view from space. Colonel Flickinger, Director of Human Factors of the Air Force Research and Development Command, explains selection and training of the crew for outer space. He then shows an artist's conception of a space flight simulator that will monitor the crew's vital signs under physiological stress. He discusses the importance of the crew's emotional durability and shows an artist's rendering of a sealed cabin simulator and a five-crew centrifuge. Commander Phoebus, of the Medical Corps of the U. S. Navy, explains explosive decompression and describes the differences between partial and full pressure suits, as worn by such fliers as Charles Yeager and modelled by servicemen in the studio. He also shows a navigation simulator particular to space flight and discusses how crew train to move outside the space vehicle."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2021-06-24"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2021-06-24"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/288"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1436"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/997"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1195"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1807"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/606"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "eng",
+        "@value": "Originally broadcast as a segment of the television program Johns Hopkins science review on March 2, 1953 from the studios of WAAM in Baltimore, Md. Black and white. Lynn Poole, producer; Paul Kane, director; Joel Chaseman, narrator; produced by WAAM television station in Baltimore, Md. for the Dumont Network. Lynn Poole, Clifford P. Phoebus, Don Flickinger, presenters. Digitized in 2003."
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "00:29:00hh:mm:ss"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/11833"
+      },
+      {
+        "@language": "en",
+        "@value": "COLL-0008"
+      },
+      {
+        "@value": "mq2396997mmmmm"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1953-03-02"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "1953-03-02"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/776"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      }
+    ],
+    "http://purl.org/dc/terms/relation": [
+      {
+        "@id": "https://catalyst.library.jhu.edu/catalog/bib_2396997"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2711"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3331"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2936"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "More about space travel"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2291"
+      }
+    ],
+    "http://purl.org/ontology/bibo/oclcnum": [
+      {
+        "@value": "54030414"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:41:41+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:41:41+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/635"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/11833"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/39"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1436",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1807",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/606",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "_:Nf5d795b239c64db984f8cc514e84b0c1",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2936",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/288",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1823",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/378",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  }
+]

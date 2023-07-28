@@ -1,0 +1,340 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2291",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1213",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2476",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/39",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2991",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/635",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1436",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/606",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1728",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2736",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/11771",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_12ce"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1109"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/brd": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/288?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/drt": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1436?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pbl": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/prd": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1189?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1213?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1728?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pro": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/606?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Two seemingly unrelated crimes are linked and subsequently solved through forensic techniques involving spectrometry, blood typing, and ballistics with the use of microscopic methods."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2021-06-24"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2021-06-24"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/288"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1436"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1189"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1213"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1728"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/606"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "eng",
+        "@value": "Originally broadcast as a segment of the television program Johns Hopkins science review on October 29, 1951 from the studios of WAAM in Baltimore, Md. Black and white. Lynn Poole, producer; Paul Kane, director; Joel Chaseman, announcer; produced by WAAM television station in Baltimore, Md. for the Dumont Network. Lynn Poole, Henry C. Freimuth, Russell S. Fisher, Anthony Nelligan, presenters. Digitized in 2003."
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "00:30:00hh:mm:ss"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/11771"
+      },
+      {
+        "@language": "en",
+        "@value": "COLL-0008"
+      },
+      {
+        "@value": "mq2385544mmmmmm"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1951-10-29"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "1951-10-29"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/776"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      }
+    ],
+    "http://purl.org/dc/terms/relation": [
+      {
+        "@id": "https://catalyst.library.jhu.edu/catalog/bib_2385544"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2991"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2476"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2419"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2736"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3333"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Convicted by microscope"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2291"
+      }
+    ],
+    "http://purl.org/ontology/bibo/oclcnum": [
+      {
+        "@value": "53311708"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:41:41+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:41:41+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/635"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/11771"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/39"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3333",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/288",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "_:N1e95834e18f7427ba5a8bb601df128b4",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2419",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1823",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1189",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/378",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  }
+]

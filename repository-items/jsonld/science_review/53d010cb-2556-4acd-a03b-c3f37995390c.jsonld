@@ -1,0 +1,315 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1185",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2291",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3110",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/39",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/967",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/997",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/635",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/606",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/968",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/288",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "_:Na5f60d83e67f4274be35b7935272a1db",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/11850",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_12ce"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1109"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/brd": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/288?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/drt": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/967?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/968?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/nrt": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/997?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pbl": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/prd": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1185?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pro": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823?_format=jsonld"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/606?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Lynn Poole welcomes station WFIE-TV in Dayton, Ohio, where Paul Kane, former Science Review Director, is the new station's manager. Then, using a diagram, Dr. Firor explains that sutures are necessary when a wound is deep and tissues cannot be brought together with a Band-Aid. A film illustrates the healing process in a microscopic view of white blood cells carrying out phagocytosis, destruction of bacteria. Dr. Firor then summarizes the history of wound closure techniques, from the Edwin Smith papyrus detailing the Egyptians' procedures in 1600 BC to the introduction of gold thread by Fabricius in 1550 to South American Indians' use of soldier ants' bites to clamp wounds closed. A film dramatizes late nineteenth century improvements on Lister's methods of surgical cleanliness and the use of violin strings and cat gut as sutures. Dr. Firor shows current sutures made by commercial firms of nylon, linen, silk, and stainless steel wire and the needles used with them."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2021-06-24"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2021-06-24"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/288"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/967"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/968"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/997"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1185"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/606"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "eng",
+        "@value": "Originally broadcast as a segment of the television program Johns Hopkins science review on October 28, 1953 from the studios of WAAM in Baltimore, Md. Black and white. Lynn Poole, producer; Kennard Calfee, Herbert B. Cahan, directors; Joel Chaseman, narrator; produced by WAAM television station in Baltimore, Md. for the Dumont Network. Lynn Poole, Warfield Firor, presenters. Digitized in 2004."
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "00:28:35hh:mm:ss"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/11850"
+      },
+      {
+        "@language": "en",
+        "@value": "COLL-0008"
+      },
+      {
+        "@value": "mq2403921mmmmm"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1953-10-28"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "1953-10-28"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/776"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      }
+    ],
+    "http://purl.org/dc/terms/relation": [
+      {
+        "@id": "https://catalyst.library.jhu.edu/catalog/bib_2403921"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3110"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3376"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Surgical sewing"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2291"
+      }
+    ],
+    "http://purl.org/ontology/bibo/oclcnum": [
+      {
+        "@value": "54367816"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:41:41+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:41:41+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/635"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/11850"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/39"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1823",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3376",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/378",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  }
+]

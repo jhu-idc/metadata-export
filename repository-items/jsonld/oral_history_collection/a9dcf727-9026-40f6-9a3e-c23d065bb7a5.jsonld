@@ -1,0 +1,381 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/120",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_18cc"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/400"
+      }
+    ],
+    "http://id.loc.gov/ontologies/bibframe/place": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/756"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/38199"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/38199"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/ive": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/943?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/ivr": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2196?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Grace Brush is a professor in the Johns Hopkins Department of Geography and Environmental Engineering. She has studied the impact of human disturbance on the Chesapeake Bay extensively and has been awarded the Mathias Medal for her work. She was also named a Fellow of the Ecological Society of America. In this history, Brush discusses her time at Hopkins and her research, especially that which she completed in the Chesapeake Bay. This oral history is part of the Mame Warren oral histories Series."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2015-10-30"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2015-10-30"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2196"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/943"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "01:13:03 hh:mm:ss"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/120"
+      },
+      {
+        "@language": "en",
+        "@value": "MS.0404"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1999-07-06"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "1999-07-06"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/776"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/257"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/258"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/403"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/423"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/722"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/943"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1075"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1839"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2251"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2252"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2645"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2694"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3090"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3459"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3486"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3533"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Oral history of Grace Brush"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2285"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2295"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:37:38+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-04-05T13:15:13+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/650"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/643"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/120"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/35"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/403",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2694",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3090",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/423",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/378",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3486",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2645",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1839",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/643",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/258",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2285",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2251",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/257",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/722",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/35",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "_:Ne5c6fa66f20444928fcf9316efdf8093",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1075",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/756",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2295",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2252",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3459",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3533",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/650",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2196",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "_:Nd59f5e23a7e74611b1de603baded7223",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  }
+]

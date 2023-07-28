@@ -1,0 +1,274 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/635",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2291",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2475",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/11862",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_12ce"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1109"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/brd": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/288?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/ctb": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/457?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pbl": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/prd": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pro": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/606?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "A film by Monsanto Co. dramatizes the development of curious boys into American chemists who learn to duplicate, preserve, extend, and replace natural resources. The serendipity of chemistry is exemplified in the story of how one lab team's search for a better shower curtain resulted in development of a liquid suitable as a fire resistant hydraulic fluid, \"skydrol.\" The film also includes a visit to a phosphorous plant and a description of making phosphates; the creation of vinyl butyral for safety glass in the automobile industry; the manufacture of vanillin from sulfite liquor, a wood pulp mill waste product; and a demonstration of Krilium soil conditioner. The film notes that since World War I, chemistry has been responsible for antibiotics, synthetic fibers, plastics, and synthetic rubber."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2021-06-24"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2021-06-24"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/288"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/457"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1823"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/606"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "eng",
+        "@value": "Originally broadcast as a segment of the television program Johns Hopkins science review on July 1, 1954 from the studios of WAAM in Baltimore, Md. Black and white. Produced by WAAM television station in Baltimore, Md. for the Dumont Network. Lynn Poole, presenter. Digitized in 2004."
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "00:29:26hh:mm:ss"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/11862"
+      },
+      {
+        "@language": "en",
+        "@value": "COLL-0008"
+      },
+      {
+        "@value": "31151024443412"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1954-07-01"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "1954-07-01"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/776"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/378"
+      }
+    ],
+    "http://purl.org/dc/terms/relation": [
+      {
+        "@id": "https://catalyst.library.jhu.edu/catalog/bib_2405684"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3116"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2475"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Decision for chemistry"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2291"
+      }
+    ],
+    "http://purl.org/ontology/bibo/oclcnum": [
+      {
+        "@value": "54492110"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:41:41+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:41:41+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/635"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/11862"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/39"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/606",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/39",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/457",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "_:N54ae257dd86f48278345d33fbf0ffd79",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/378",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3116",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1823",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/288",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  }
+]

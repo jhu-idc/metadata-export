@@ -1,0 +1,272 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/646",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/35",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2907",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2724",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "_:N532234e4a14f4886b7976afaec60ae36",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3617",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/650",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/17520",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_18cc"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/400"
+      }
+    ],
+    "http://id.loc.gov/ontologies/bibframe/place": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/756"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/67738"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/ive": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3667?_format=jsonld"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/ivr": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1980?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "\"Y.R.\" is a member of the Johns Hopkins University graduating class of 2022. In this interview, he discusses his college experience - its challenges and successes - as a first-generation/FLI student at Hopkins. He shares how the COVID-19 pandemic influenced his coursework and social life. He describes his childhood living in Cuba, his parents' vocations and opinions on education, as well as their use of the Visa lottery Program. Y.R. talks about adjusting to life in Miami, his education leading up to university, the college application process, and his choice to attend Hopkins. Y.R. speaks about moving to Baltimore, life with roommates, and adjusting to the academics at Hopkins (imposter syndrome, time management). He also details extracurriculars like the Cuban-American Undergraduate Students Association and a dance club. and highlights some of his favorite professors. Lastly, Y.R. talks about his plans after undergraduate education; he was accepted to Yale Law School. This oral history is part of the First-generation Students oral histories series."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2022-11-04"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2022-11-04"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3667"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1980"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "2022-03-18"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2022-03-18"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "eng",
+        "@value": "\"Y.R.\" is a member of the Johns Hopkins University graduating class of 2022. In this interview, he discusses his college experience - its challenges and successes - as a first-generation/FLI student at Hopkins. He shares how the COVID-19 pandemic influenced his coursework and social life. He describes his childhood living in Cuba, his parents' vocations and opinions on education, as well as their use of the Visa lottery Program. Y.R. talks about adjusting to life in Miami, his education leading up to university, the college application process, and his choice to attend Hopkins. Y.R. speaks about moving to Baltimore, life with roommates, and adjusting to the academics at Hopkins (imposter syndrome, time management). He also details extracurriculars like the Cuban-American Undergraduate Students Association and a dance club. and highlights some of his favorite professors. Lastly, Y.R. talks about his plans after undergraduate education; he was accepted to Yale Law School. This oral history is part of the First-generation Students oral histories series."
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "03:10:53 hh:mm:ss"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/17520"
+      },
+      {
+        "@language": "en",
+        "@value": "MS.0404"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/776"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2724"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2587"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2907"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3617"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Oral history of Y.R."
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2285"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2295"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/646"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2023-02-06T15:41:20+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2023-02-15T19:27:10+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/650"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/643"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/17520"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/35"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2587",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2285",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3667",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/643",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1980",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/756",
+    "@type": [
+      "http://purl.org/dc/terms/Location",
+      "http://schema.org/Place"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2295",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

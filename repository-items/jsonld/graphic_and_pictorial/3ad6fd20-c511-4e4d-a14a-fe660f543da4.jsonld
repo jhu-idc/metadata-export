@@ -1,0 +1,200 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "_:Nf0edbc89523c40aab8455adf4103b653",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/1160",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58362"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58362"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Group photograph of faculty with their names written on the photograph. Individuals pictured include Sidney Sherwood, Kirby Flower Smith, Lorrain Sherman Hulburt, Ross Granville Harrison, Ethan Allen Andrews, Thomas Stephen Cullen, Harry Clary Jones, Reid Hunt, Edward Renouf, Charles Carroll Marden, Bert John Vos, Christopher Johnston, John Martin Vincent, William Sydney Thayer, Harry Fielding Reid, William Henry Howell, Franklin Paine Mall, William Bullock Clark, Frank Morley, John Whitridge Williams, Charles William Emil Miller, Maurice Bloomfield, Herbert Eveleth Greene, Nicholas Murray, William Hand Browne, James Wilson Bright, Henry Wood, Howard Atwood Kelly, William Keith Brooks, William Stewart Halsted, John Jacob Abel, Edward Bennett Mathews, Aaron Marshall Elliott, Edward Herrick Griffin, Paul Haupt, Basil Lanneau Gildersleeve, Daniel Coit Gilman, Ira Remsen, Henry Augustus Rowland, William Henry Welch, and Harmon Northrup Morse."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Faculty | Sherwood, Sidney | Smith, Kirby Flower | Hulburt, Lorrain Sherman | Harrison, Ross Granville | Andrews, Ethan Allen | Cullen, Thomas Stephen | Jones, Harry Clary | Hunt, Reid | Renouf, Edward | Marden, Charles Carroll | Vos, Bert John | Johnston, Christopher | Vincent, John Martin | Thayer, William Sydney | Reid, Harry Fielding | Howell, William Henry | Mall, Franklin Paine | Clark, William Bullock | Morley, Frank | Williams, John Whitridge | Miller, Charles William Emil | Bloomfield, Maurice | Greene, Herbert Eveleth | Murray, Nicholas | Browne, William Hand | Bright, James Wilson | Wood, Henry | Kelly, Howard Atwood | Brooks, William Keith | Halsted, William Stewart | Abel, John Jacob | Mathews, Edward Bennett | Elliott, Aaron Marshall | Griffin, Edward Herrick | Haupt, Paul | Gildersleeve, Basil Lanneau | Gilman, Daniel Coit | Remsen, Ira | Rowland, Henry Augustus | Welch, William Henry | Morse, Harmon Northrup"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1901"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1901"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "16 x 20 inches (Oversize)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/1160"
+      },
+      {
+        "@value": "jhu_coll-0002_12988"
+      },
+      {
+        "@value": "Negative #07064"
+      },
+      {
+        "@value": "Negative #07084"
+      },
+      {
+        "@value": "Negative #10562"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of faculty"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1160"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/1365",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58296"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58296"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pht": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1415?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include John Frederick Hunter, LeGrand Winfield Perce Jr., Edmund Doleweczynski, Ira Remsen, Karl Singewald, Carl Martin Distler, William Andrew August Reinhardt, Edward Herrick Griffin, Edmund Calvert Lynch, William Bose Marye, Addis Emmet Mosley, Harry Lingan Caples, Arthur Leonard Bloomfield, Wallis Giffen, Harry Christian Schmeisser, Arthur Russell Knipp, Herman Frederick Rolker, William Edwin Bird, George Adolph Stewart, Clarence Pembroke Gould, Hiram Fried, William Rickert Glen, Ernest Pohl Doetsch, John Slade German, John Merryman Black, Henry Patterson Harris, George Pitts Raleigh, Stanley Meade Reynolds, Richard MacSherry, Iredell Waddell Iglehart, Oscar Ellis Bransky, Daniel Ellison, David Eli Strouse, Ernest Singleton Hendry, Warren Belknap Hunting, Rogers Galt, Joseph Todhunter Ware, Edward Tremaine Hills, John Mallory Holmes, Jordan Herbert Stabler, Henry Parr Hynson Jr., William Pleet, Wilmer Theodore Stone, Albert Grauer, Albert Joseph Fleischman, Arthur Rankin Padgett, and Weston O'Brien Harding."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Class Photographs, 1907 | Hunter, John Frederick | Perce, LeGrand Winfield, Jr. | Doleweczynski, Edmund | Remsen, Ira | Singewald, Karl | Distler, Carl Martin | Reinhardt, William Andrew August | Griffin, Edward Herrick | Lynch, Edmund Calvert | Marye, William Bose | Mosley, Addis Emmet | Caples, Harry Lingan | Bloomfield, Arthur Leonard | Giffen, Wallis | Schmeisser, Harry Christian | Knipp, Arthur Russell | Rolker, Herman Frederick | Bird, William Edwin | Stewart, George Adolph | Gould, Clarence Pembroke | Fried, Hiram | Glen, William Rickert | Doetsch, Ernest Pohl | German, John Slade | Black, John Merryman | Harris, Henry Patterson | Raleigh, George Pitts | Reynolds, Stanley Meade | MacSherry, Richard | Iglehart, Iredell Waddell | Bransky, Oscar Ellis | Ellison, Daniel | Strouse, David Eli | Hendry, Ernest Singleton | Hunting, Warren Belknap | Galt, Rogers | Ware, Joseph Todhunter | Hills, Edward Tremaine | Holmes, John Mallory | Stabler, Jordan Herbert | Hynson, Henry Parr, Jr. | Pleet, William | Stone, Wilmer Theodore | Grauer, Albert | Fleischman, Albert Joseph | Padgett, Arthur Rankin | Harding, Weston O'Brien"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1415"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1907"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1907"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "14.5 x 16.25 inches (Image 10.75 x 16.25 inches)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/1365"
+      },
+      {
+        "@value": "jhu_coll-0002_06668"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2529"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/178"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Class of 1907"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1365"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2529",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/178",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "_:N0b6b7698fa5743bda9f2b065ffd02dc0",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1415",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  }
+]

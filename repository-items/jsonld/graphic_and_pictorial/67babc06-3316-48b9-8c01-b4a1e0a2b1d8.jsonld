@@ -1,0 +1,210 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/1033",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/53231"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/53231"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pht": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/205?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Group photograph of the 1900 Ph.D. class. Individuals pictured include Herbert Baxter Adams, George Loric Pierce, William Sidney Drewry, Williams Starr Myers, and Charles Clinton Weaver."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: History | Adams, Herbert Baxter | Radcliffe, George Loric Pierce | Drewry, William Sidney | Myers, William Starr | Weaver, Charles Clinton"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/205"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1900"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1900"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "7.5 x 9.5 inches (Image 6.5 x 8.5 inches)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/1033"
+      },
+      {
+        "@value": "jhu_coll-0002_05529"
+      },
+      {
+        "@value": "Negative #06918"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the History Department"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1033"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc8f7851de7b24e2ea3754ee2e12b2bdb",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/205",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

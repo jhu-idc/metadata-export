@@ -1,0 +1,220 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/914",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58403"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58403"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pht": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1057?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include Robert Lacy, Henry Todd Powell, Henry Pickering Parker, Cornelius Beatty, Edwin Delaplaine Nelson, Frank Holmes Johnson, Martin Schwab, Daniel Coit Gilman, Horace Marshall Harriman Jr., Edward Lingan Bowlus, John Armistead Welbourn, Charles Harwood Knight, William Fisher Wallis, Malcolm Westcott Hill, Frederick Howard Warfield, James Holdsworth Gordon Jr., George Harwood Hodges, St. George Leakin Sioussat, Richard Ellicott Marine, William Faithful Hendrickson, Albert Dale Gantz, William Kurrelmeyer, Alexander Raymond Stevens, Jaspar Alan McCaskill, William Reginald Dorsey, John Wesley Richard Sumwalt, Isidor Deutsch, Clarence Carroll Clark, Louis Rosenbaum, Charles Burnet Torsch, Laurence Frederick Schmeckebier, James Eustace Shaw, Henry Lanahan, Charles Leonard Reeder, John Montgomery West, Augustus Caesar Binswanger, Charles Edward Caspari, Albert Cabell Ritchie, James McConkey Trippie, Alfred Dearing Harden, and Charles Edward Diehl."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Class Photographs, 1896 | Lacy, Robert | Powell, Henry Todd | Parker, Henry Pickering | Beatty, Cornelius | Nelson, Edwin Delaplaine | Johnson, Frank Holmes | Schwab, Martin | Gilman, Daniel Coit | Harriman, Horace Marshall, Jr. | Bowlus, Edward Lingan | Welbourn, John Armistead | Knight, Charles Harwood | Wallis, William Fisher | Hill, Malcolm Westcott | Warfield, Frederick Howard | Gordon, James Holdsworth, Jr. | Hodges, George Harwood | Sioussat, St. George Leakin | Marine, Richard Ellicott | Hendrickson, William Faithful | Gantz, Albert Dale | Kurrelmeyer, William | Stevens, Alexander Raymond | McCaskill, Jaspar Alan | Dorsey, William Reginald | Sumwalt, John Wesley Richard | Deutsch, Isidor | Clark, Clarence Carroll | Rosenbaum, Louis | Torsch, Charles Burnet | Schmeckebier, Laurence Frederick | Shaw, James Eustace | Lanahan, Henry | Reeder, Charles Leonard | West, John Montgomery | Binswanger, Augustus Caesar | Caspari, Charles Edward | Ritchie, Albert Cabell | Trippie, James McConkey | Harden, Alfred Dearing | Diehl, Charles Edward"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1057"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1896"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1896"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/914"
+      },
+      {
+        "@value": "jhu_coll-0002_06657"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2529"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/178"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Class of 1896"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:20:58+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:20:58+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/914"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1057",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "_:Nc2e3a3dd45ca44c2a077e1e8d89afa4d",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2529",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/178",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

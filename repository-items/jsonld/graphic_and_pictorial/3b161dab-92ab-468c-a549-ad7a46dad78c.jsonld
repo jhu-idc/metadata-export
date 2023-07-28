@@ -1,0 +1,220 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/8635",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/48339"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/48339"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pht": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1304?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include Chester Ezekiel Hurwitz, William David Webb, William James Fulton, Robert Graff Merrick, Milton Stover Eisenhower, Joseph Trueman Thompson, John Wilmerton Darley, Louis McComas Young, Alexander Ashley Weech, Louis Meyerhoff, Hyman Abraham Cohen, Martin [?] McDonough, Edmund Law Rogers Smith, Francis Howard Wilson, ? Heimel, John McConkey Mowbray, Stilson Hoyt [?] Hopkins, Edward Guy Stapleton, Reuben Oppenheimer, Warfield Monroe Firor, Peyton Brown Strobel, Guy Lee Bryan, Henry Scott Baker, Elbridge Gerry Hall, Charles Gordon Pitt, Charles Warren Black, John Daniel Roop, Egbert Leroy Smith, William Howser Skinner, and Edward Merceron Stuart."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Class Photographs, 1917 | Hurwitz, Chester Ezekiel | Webb, William David | Fulton, William James | Merrick, Robert Graff | Eisenhower, Milton Stover | Thompson, Joseph Trueman | Darley, John Wilmerton | Young, Louis McComas | Weech, Alexander Ashley | Meyerhoff, Louis | Cohen, Hyman Abraham | McDonough, Martin [?] | Smith, Edmund Law Rogers | Wilson, Francis Howard | Heimel, ? | Mowbray, John McConkey | Hopkins, Stilson Hoyt [?] | Stapleton, Edward Guy | Oppenheimer, Reuben | Firor, Warfield Monroe | Strobel, Peyton Brown | Bryan, Guy Lee | Baker, Henry Scott | Hall, Elbridge Gerry | Pitt, Charles Gordon | Black, Charles Warren | Roop, John Daniel | Smith, Egbert Leroy | Skinner, William Howser | Stuart, Edward Merceron"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1304"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1967"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1967"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/8635"
+      },
+      {
+        "@value": "jhu_coll-0002_05897"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2529"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/178"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Class of 1917 outside Milton S. Eisenhower Library"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T18:17:15+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T18:17:15+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/8635"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/178",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1304",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2529",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "_:N2a5cf9815ca8452ba5af017b07e87fe2",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  }
+]

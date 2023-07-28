@@ -1,0 +1,194 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/1796",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/55864"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/55864"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include (from left to right, bottom to top) Lewis Webb O'Connor, Arthur Summerfield McCabe, Frank Israel Fonaroff, Harry William Ewald, Joseph Weil, Jacob Stanley Rosenthal, Louis Morris Zeskind, Roger Edwin Martz, Jacob Suter Jammer, Bernard Allen [Bernard Aloysius] Sullivan, John Walter Young, George Devine O'Neill, John Harold Lampe, Kenneth Stetson Cullom, Alexander McWhorter Wolfe, August Herman Pfund, William Julian Albert Bliss, Edward Guy Stapleton, John J. [?] Donney, Erman Reed Kauffman, Charles Rothwell Ditman, George Sylvester Harris, Kenneth Oscar Bitter, William Bates Pratt, John Max Carey Van Hulsteyn, Henry Hinkson Hopkins, John Winand Corbett, John Edwin Konze, Eugene Jude Canton, Robert Gilmor Hoffman, Jacob Franklin Kauffman, and Frederick Keller Bell."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Physics | O'Connor, Lewis Webb | McCabe, Arthur Summerfield | Fonaroff, Frank Israel | Ewald, Harry William | Weil, Joseph | Rosenthal, Jacob Stanley | Zeskind, Louis Morris | Martz, Roger Edwin | Jammer, Jacob Suter | Sullivan, Bernard Allen [Bernard Aloysius] | Young, John Walter | O'Neill, George Devine | Lampe, John Harold | Cullom, Kenneth Stetson | Wolfe, Alexander McWhorter | Pfund, August Herman | Bliss, William Julian Albert | Stapleton, Edward Guy | Donney, John J. [?] | Kauffman, Erman Reed | Ditman, Charles Rothwell | Harris, George Sylvester | Bitter, Kenneth Oscar | Pratt, William Bates | Van Hulsteyn, John Max Carey | Hopkins, Henry Hinkson | Corbett, John Winand | Konze, John Edwin | Canton, Eugene Jude | Hoffman, Robert Gilmor | Kauffman, Jacob Franklin | Bell, Frederick Keller |"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1916-05-01"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "1916-05-01"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "6.5 x 8.75 inches"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/1796"
+      },
+      {
+        "@value": "jhu_coll-0002_05278"
+      },
+      {
+        "@value": "Negative #11727"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Physics Department on the steps of McCoy Hall, Johns Hopkins University's original campus"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T17:10:01+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T17:10:01+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1796"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne135410deb61440eb4785e290e5f1dc1",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

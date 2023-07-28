@@ -1,0 +1,215 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/1244",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58331"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58331"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include Ira Remsen, Edward Herrick Griffin, Henry Charles Ernest Louis, Leonard Griffith Wallis, Roy Stiles Licking, Charles Henry Saylor, Clarence Alfred Neal, Sifford Pearre, Jesse Lee Bennett, Sidney Charles Erlanger, Gerald Benjamin Rosenheim, Philip Dettelbach, John William Emig, Alfred Logsdon Geiger, Josias Clerk Lee Hawkins, Walter William Kohn, John Bushrod Schwatka, Wilbur Leslie Lecron, Thomas Shenton Strobhar, George Andrew Foster, Reginald Stevenson Opie, Samuel Hyman Schapiro, Frank Gibson Porter, William Edmonston Crozier, Frank Stollenwerck Jr., Henry Loane Lloyd, Riggin Buckler, John McGlone, Joseph Robson Bromwell, Henry Clay Miller, Harry H* Humrichouse, Charles Robert Austrian, Andrew Dickson Jones Jr., Merrill Rosenfeld, Ralph Ottomar Fuerbringer, Harry Edward Muhly, Thomas Poole Maynard, Howell Harris Thomas, and Newton Edward Washington Wayson."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Class Photographs, 1904 | Remsen, Ira | Griffin, Edward Herrick | Louis, Henry Charles Ernest | Wallis, Leonard Griffith | Licking, Roy Stiles | Saylor, Charles Henry | Neal, Clarence Alfred | Pearre, Sifford | Bennett, Jesse Lee | Erlanger, Sidney Charles | Rosenheim, Gerald Benjamin | Dettelbach, Philip | Emig, John William | Geiger, Alfred Logsdon | Hawkins, Josias Clerk Lee | Kohn, Walter William | Schwatka, John Bushrod | Lecron, Wilbur Leslie | Strobhar, Thomas Shenton | Foster, George Andrew | Opie, Reginald Stevenson | Schapiro, Samuel Hyman | Porter, Frank Gibson | Crozier, William Edmonston | Stollenwerck, Frank, Jr. | Lloyd, Henry Loane | Buckler, Riggin | McGlone, John | Bromwell, Joseph Robson | Miller, Henry Clay | Humrichouse, Harry H* | Austrian, Charles Robert | Jones, Andrew Dickson, Jr. | Rosenfeld, Merrill | Fuerbringer, Ralph Ottomar | Muhly, Harry Edward | Maynard, Thomas Poole | Thomas, Howell Harris | Wayson, Newton Edward Washington"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1904"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1904"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "eng",
+        "@value": "File 06665_002 is an image that was digitally-repaired by staff."
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "11 x 15 inches (Oversize)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/1244"
+      },
+      {
+        "@value": "jhu_coll-0002_06665"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2529"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/178"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Class of 1904"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1244"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2529",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/178",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "_:N0e94232184414f4ab8b05cd5162da827",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

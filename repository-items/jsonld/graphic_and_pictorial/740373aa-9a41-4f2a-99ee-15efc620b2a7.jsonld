@@ -1,0 +1,225 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "_:Nbcc005fccfe14a1586a1f542a32e311e",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2529",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/1272",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58318"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58318"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pht": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1396?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include Carl Samuel Stern, Walter Albert Baetjer, Ira Remsen, William Graham Boyce, Edward Herrick Griffin, John Francis Cremen, John Morris Super, Leman Edwin Goldman, Andrew Wilmer Hull, Lewis Alan Dill, Benjamin Abram Bernstein, William Ringgold Straughn, Walter David Eiseman, Richard Newton Jackson, Edward Leyburn Moreland, Thomas Owings, Isaac Chandler Walker, Lawrence Counselman Wroth, Nathan Pumphrey Pitcher, Robert Bamford Zeigler, Irving Henry Kohn, James Curlander, Rufus King Goodenow, Robertson Griswold, Allen Strafford Bowie, Hugh Asbury Hackett, William Knepper Skilling, John Long Jackson, Thomas Rodney Chambers, Harmon Vail Morse, Francis Morris Miller, Jonathan Earle Mifflin, Gustav Herman Woltereck, William Harkinson Hudgins, William Watters Pagon, James Alvin Bass, and Byron Treat Banghart."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Class Photographs, 1905 | Stern, Carl Samuel | Baetjer, Walter Albert | Remsen, Ira | Boyce, William Graham | Griffin, Edward Herrick | Cremen, John Francis | Super, John Morris | Goldman, Leman Edwin | Hull, Andrew Wilmer | Dill, Lewis Alan | Bernstein, Benjamin Abram | Straughn, William Ringgold | Eiseman, Walter David | Jackson, Richard Newton | Moreland, Edward Leyburn | Owings, Thomas | Walker, Isaac Chandler | Wroth, Lawrence Counselman | Pitcher, Nathan Pumphrey | Zeigler, Robert Bamford | Kohn, Irving Henry | Curlander, James | Goodenow, Rufus King | Griswold, Robertson | Bowie, Allen Strafford | Hackett, Hugh Asbury | Skilling, William Knepper | Jackson, John Long | Chambers, Thomas Rodney | Morse, Harmon Vail | Miller, Francis Morris | Mifflin, Jonathan Earle | Woltereck, Gustav Herman | Hudgins, William Harkinson | Pagon, William Watters | Bass, James Alvin | Banghart, Byron Treat"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1396"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1905"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1905"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "10.5 x 13.5 inches (Oversize)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/1272"
+      },
+      {
+        "@value": "jhu_coll-0002_06666"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2529"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/178"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Class of 1905"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1272"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/178",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1396",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

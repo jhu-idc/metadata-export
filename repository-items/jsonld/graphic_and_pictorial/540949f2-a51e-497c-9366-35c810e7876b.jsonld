@@ -1,0 +1,209 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2529",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "_:N2c3b91a28e0943138fd5d9be763e7691",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/178",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/722",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58463"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58463"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include Charles William Waidner, Robert Ernest Hutton, George Edward Boynton, John Sargent Stearns, Earl Perkins Lothrop, Walter Alexander Montgomery, Henry Simpson Greenleaf, George Henry Hutton, Abram Barr Shively, Charles Gambrill Baldwin, Harold John Turner, Charles Whitney Mixter, Daniel Coit Gilman, Edward Herrick Griffin, Robert Isaac Todd, William August Haussmann, David Bertram Pope, John Holladay Latane, Leopold Stern, Delaware Clayton Andre, Morris James, Alfred Cookman Bryan, Hugh Judge Jewett Jr., James Wesley Harvey Jr., Lester Latham Stevens, Charles William Peppler, William Calvin Chesnut, James Flack Norris, John Edwin Davis, Leon Emanuel Greenbaum, George Emerson Cox, Arthur Bertram Turner, Harry Adler, Jose Lewis Hirsh, Edwin Bernhard Behrend, Arthur Fisher Bentley, Charles Roy McKay, Edward Jaquelin L'Engle, Newton Diehl Baker, Albert Moore Reese, Gustav Lurman Stewart, John Stewart Jr., John Boswell Whitehead, Henry Haywood Glassie, Lunsford Emory Bennet, Richard Gordon Williams, Redmond Conyngham Stewart, Charles Daniel Steenken, Thomas Dobbin Penniman, James Ellicott Hewes, Thomas Richard Brown, John Samuel Bullock Jr., Theodore Woolsey Johnson, Charles Weathers Bump, Rignal Woodward Baldwin, John Robert Abercrombie, and Richard Henry Wilson Jr."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Class Photographs, 1892 | Waidner, Charles William | Hutton, Robert Ernest | Boynton, George Edward | Stearns, John Sargent | Lothrop, Earl Perkins | Montgomery, Walter Alexander | Greenleaf, Henry Simpson | Hutton, George Henry | Shively, Abram Barr | Baldwin, Charles Gambrill | Turner, Harold John | Mixter, Charles Whitney | Gilman, Daniel Coit | Griffin, Edward Herrick | Todd, Robert Isaac | Haussmann, William August | Pope, David Bertram | Latane, John Holladay | Stern, Leopold | Andre, Delaware Clayton | James, Morris | Bryan, Alfred Cookman | Jewett, Hugh Judge, Jr. | Harvey, James Wesley, Jr. | Stevens, Lester Latham | Peppler, Charles William | Chesnut, William Calvin | Norris, James Flack | Davis, John Edwin | Greenbaum, Leon Emanuel | Cox, George Emerson | Turner, Arthur Bertram | Adler, Harry | Hirsh, Jose Lewis | Behrend, Edwin Bernhard | Bentley, Arthur Fisher | McKay, Charles Roy | L'Engle, Edward Jaquelin | Baker, Newton Diehl | Reese, Albert Moore | Stewart, Gustav Lurman | Stewart, John, Jr. | Whitehead, John Boswell | Glassie, Henry Haywood | Bennet, Lunsford Emory | Williams, Richard Gordon | Stewart, Redmond Conyngham | Steenken, Charles Daniel | Penniman, Thomas Dobbin | Hewes, James Ellicott | Brown, Thomas Richard | Bullock, John Samuel, Jr. | Johnson, Theodore Woolsey | Bump, Charles Weathers | Baldwin, Rignal Woodward | Abercrombie, John Robert | Wilson, Richard Henry, Jr."
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1892"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1892"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "11.25 x 16.5 inches (Oversize)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/722"
+      },
+      {
+        "@value": "jhu_coll-0002_06650"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2529"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/178"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Class of 1892"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:20:58+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:20:58+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/722"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

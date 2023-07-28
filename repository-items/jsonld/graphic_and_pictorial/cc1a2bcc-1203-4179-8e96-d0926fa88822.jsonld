@@ -1,0 +1,215 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/1191",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58352"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58352"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include Eben Charles Hill, John Gorsuch Campbell, Edward Bailey Beasley, Thomas Coulson Pinkerton, Bartgis McGlone, John Aydelotte Slemons, William Kirk, Marbury Bladen Ogle, Edward Herrick Griffin, William Jackins Buttner, Horace Clendenin Gillespie, Walter Ford Reynolds, Robert Emory Moore, Charles Frederick Ranft, Ralph Carleton Sharretts, William Christian Schmeisser, Ira Remsen, John Phelphs [?] Hond, Phineas Jenks Smith Cameron, Henry Honeyman Hazen, Frederick Lee Guggenheimer, Joseph Townsend England, Lyman Clements Murphy, Gibson Emerson Sisco, Louis Foltat Hildebrandt, Peregrine Wroth Jr., Charles Markell Jr., David Israel Macht, Albert Goucher Dew, William Edwin Hoffman Jr., Henry Beeuwkes, John Norris Myers Jr., William Howard Koppleman, Samuel Wolman, Sidney Smith, Isaac Rosenbaum Pels, Benjamin Swayne Putts, Aubrey Pearre Jr., Charles Augustus Myers, Mettardy Mowers, Lewis Urbin Bruner, Ross Miles Diggs, Solomon Strouse, Elbridge Palmer Bernheim, and Harvey Brinton Stone."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Class Photographs, 1902 | Hill, Eben Charles | Campbell, John Gorsuch | Beasley, Edward Bailey | Pinkerton, Thomas Coulson | McGlone, Bartgis | Slemons, John Aydelotte | Kirk, William | Ogle, Marbury Bladen | Griffin, Edward Herrick | Buttner, William Jackins | Gillespie, Horace Clendenin | Reynolds, Walter Ford | Moore, Robert Emory | Ranft, Charles Frederick | Sharretts, Ralph Carleton | Schmeisser, William Christian | Remsen, Ira | Hond, John Phelphs [?] | Cameron, Phineas Jenks Smith | Hazen, Henry Honeyman | Guggenheimer, Frederick Lee | England, Joseph Townsend | Murphy, Lyman Clements | Sisco, Gibson Emerson | Hildebrandt, Louis Foltat | Wroth, Peregrine, Jr. | Markell, Charles, Jr. | Macht, David Israel | Dew, Albert Goucher | Hoffman, William Edwin, Jr. | Beeuwkes, Henry | Myers, John Norris, Jr. | Koppleman, William Howard | Wolman, Samuel | Smith, Sidney | Pels, Isaac Rosenbaum | Putts, Benjamin Swayne | Pearre, Aubrey, Jr. | Myers, Charles Augustus | Mowers, Mettardy | Bruner, Lewis Urbin | Diggs, Ross Miles | Strouse, Solomon | Bernheim, Elbridge Palmer | Stone, Harvey Brinton"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1902"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1902"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "eng",
+        "@value": "File 06663_002 is a cropped segment of the original image, detailing one or more subjects."
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "12.5 x 14 inches (Image 9.75 x 12.25 inches, Oversize)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/1191"
+      },
+      {
+        "@value": "jhu_coll-0002_06663"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2529"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/178"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Class of 1902"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1191"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "_:Nd2144e20942d47b580a06bd6ff8fabb8",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2529",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/178",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "_:N6d96be110bc148b3969fdc9188a6df07",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2529",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/178",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/1396",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/1168",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58361"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58361"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pht": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1396?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include John Manning Booker, Walter Isaac Kohn, Daniel Coit Gilman, Edward Herrick Griffin, William Payne Shriver, Henry Michael Warner, John Frederick Gray, Harry Stephenson Byrne, Alfred William Bruton, Aaron Ember, John Gresham Machen, Lindsay Coleman Spencer, Lloyd Parker Shippen, Andrew Reid Bird, Edward Lowndes, Milton Williams Powell, Robert Brooks Morse, Lee Milton Hollander, Ernest Bonsall Brown, John Martin Bandel, James Edward Tyler, Guy Everett Shavely, Ernest Cummins Hatch, William Hall Harris Jr., Norman Boyer, Cosey Walker Constantine, Edward Richards Noble, Leon Kahn Baldauf, Horace Slingluff Whiteman, Forrest Shreve, Henry Philips Straus, Bertram Moses Bernheim, Marcus Wilton Wolf Jr., Robert Sergeant Duck, Julian Samuel Stein, George Edward Rehberger, Augustus Price West, Otto Albert Struth, Mortimer Bye, Eugene Joseph Leopold, John Straith Briscoe, Jacob Abner Sayler Jr., Walter Bayard Swindell Jr., John Adelbert Riggins, Harry B. Raffel, and Frederick Richard Dapprich."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Class Photographs, 1901 | Booker, John Manning | Kohn, Walter Isaac | Gilman, Daniel Coit | Griffin, Edward Herrick | Shriver, William Payne | Warner, Henry Michael | Gray, John Frederick | Byrne, Harry Stephenson | Bruton, Alfred William | Ember, Aaron | Machen, John Gresham | Spencer, Lindsay Coleman | Shippen, Lloyd Parker | Bird, Andrew Reid | Lowndes, Edward | Powell, Milton Williams | Morse, Robert Brooks | Hollander, Lee Milton | Brown, Ernest Bonsall | Bandel, John Martin | Tyler, James Edward | Shavely, Guy Everett | Hatch, Ernest Cummins | Harris, William Hall, Jr. | Boyer, Norman | Constantine, Cosey Walker | Noble, Edward Richards | Baldauf, Leon Kahn | Whiteman, Horace Slingluff | Shreve, Forrest | Straus, Henry Philips | Bernheim, Bertram Moses | Wolf, Marcus Wilton, Jr. | Duck, Robert Sergeant | Stein, Julian Samuel | Rehberger, George Edward | West, Augustus Price | Struth, Otto Albert | Bye, Mortimer | Leopold, Eugene Joseph | Briscoe, John Straith | Sayler, Jacob Abner, Jr. | Swindell, Walter Bayard, Jr. | Riggins, John Adelbert | Raffel, Harry B* | Dapprich, Frederick Richard"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/1396"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1901"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1901"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "10.5 x 13 inches (Oversize)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/1168"
+      },
+      {
+        "@value": "jhu_coll-0002_06662"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2529"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/178"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Class of 1901"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:23:29+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1168"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

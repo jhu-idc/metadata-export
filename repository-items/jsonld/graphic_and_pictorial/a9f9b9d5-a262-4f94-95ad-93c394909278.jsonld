@@ -1,0 +1,191 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/10116",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/54302"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/54302"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "A sheet with individual identifications accompanies the photograph. Individuals pictured include R. Champlin Sheridan, Morris Tanenbaum, Daniel Nathans, Morris Wolf Offit, Michael Rubens Bloomberg, William R. Brody, Stuart Symington III Janney, Lenox Dial Baker Jr., Sanford Greenberg, Benjamin IV Griswold, Michael Armstrong, Krishna Chowdary, Martin B. Macht, Tracy J. Williams, Harvey Meyerhoff, Raymond A. Mason, James Block, Milton Miller, Manuel II Dupkin, Naneen Neubohn, Marjorie G. Lewisohn, Sol Linowitz, Jeremiah Abraham Barondess, James Flick, Walter Pinkard, David Bernstein, Douglas Fellman, Louis Thalheimer, Helmut Sonnenfeldt, Samuel Thier, Aurelia Garland Bolton, John Cooke, Ernest A. Bates, John Fredrick Ruffle, Wendell Smith, Andrew J. Bozzelli, Huntington Sheldon, William Polk Carey, G. Donald Johnston Jr., Robert Dixon Hopkins Harvey, James Clark, Gottlieb Friesinger, Randolph Bromery, Richard Hochman, Robert J. Abernethy, John W. Snow, Constance Caplan, Mark Rubenstein, and Shale D. Stiller."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Trustees | Sheridan, R. Champlin | Tanenbaum, Morris | Nathans, Daniel | Offit, Morris Wolf | Bloomberg, Michael Rubens | Brody, William R. | Janney, Stuart Symington III | Baker, Lenox Dial, Jr. | Greenberg, Sanford | Griswold, Benjamin IV | Armstrong, Michael | Chowdary, Krishna | Macht, Martin B. | Williams, Tracy J. | Meyerhoff, Harvey | Mason, Raymond A. | Block, James | Miller, Milton | Dupkin, Manuel II | Neubohn, Naneen | Lewisohn, Marjorie G. | Linowitz, Sol | Barondess, Jeremiah Abraham | Flick, James | Pinkard, Walter | Bernstein, David | Fellman, Douglas | Thalheimer, Louis | Sonnenfeldt, Helmut | Thier, Samuel | Bolton, Aurelia Garland | Cooke, John | Bates, Ernest A. | Ruffle, John Fredrick | Smith, Wendell | Bozzelli, Andrew J. | Sheldon, Huntington | Carey, William Polk | Johnston, G. Donald, Jr. | Harvey, Robert Dixon Hopkins | Clark, James | Friesinger, Gottlieb | Bromery, Randolph | Hochman, Richard | Abernethy, Robert J. | Snow, John W. | Caplan, Constance | Rubenstein, Mark | Stiller, Shale D."
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1996-05-20"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "1996-05-20"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "8 x 10 inches"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/10116"
+      },
+      {
+        "@value": "jhu_coll-0002_10568"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of University trustees, posed on the front steps of Gilman Hall"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T18:36:43+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T18:36:43+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/10116"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "_:N23b1a7be1c074813a148e9e251f4cc41",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  }
+]

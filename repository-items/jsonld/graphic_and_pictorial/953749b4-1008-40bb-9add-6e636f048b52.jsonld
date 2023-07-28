@@ -1,0 +1,209 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "_:N637df8b41b264c118cc2f51452eb8bbc",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2529",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/178",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/1386",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58294"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58294"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include Joseph Elliott Green, Julian White Ridgley, Ralph Coplestone Williams, George Henry Charles Schwartz, Ira Remsen, Edward Herrick Griffin, Daniel Miller, Herbert Bryan Price, Jacob Cohen, Alfred Gordon Armstrong, Eveleth Wilson Bridgeman, William Stuart Gorton, Philip Louis Sykes, Lawrence Melville Riddle, Robert Henry McCauley, Arthur Herman Mann, Channing Ellsworth Sweitzer, Peter Peck, Henry Hofmann Loos, Morton Emanuel Hecht, Ferdinand Oscar Wolfgang Reinhard, Herman James Hughes, George Hinman Abel, Reginald Oliver Sellman, Frank Glen Holmes, Francis Thomas Williams, Frank Newcomer Hack, Richard Lloyd Tilghman, Charles McCurdy Mathias, Frank Gottlob Breyer, Benjamin Francis Parlett Brenton, Joseph Purdon Wright, Alan Mason Chesney, and Caleb Guyer Kelly."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Class Photographs, 1908 | Green, Joseph Elliott | Ridgley, Julian White | Williams, Ralph Coplestone | Schwartz, George Henry Charles | Remsen, Ira | Griffin, Edward Herrick | Miller, Daniel | Price, Herbert Bryan | Cohen, Jacob | Armstrong, Alfred Gordon | Bridgeman, Eveleth Wilson | Gorton, William Stuart | Sykes, Philip Louis | Riddle, Lawrence Melville | McCauley, Robert Henry | Mann, Arthur Herman | Sweitzer, Channing Ellsworth | Peck, Peter | Loos, Henry Hofmann | Hecht, Morton Emanuel | Reinhard, Ferdinand Oscar Wolfgang | Hughes, Herman James | Abel, George Hinman | Sellman, Reginald Oliver | Holmes, Frank Glen | Williams, Francis Thomas | Hack, Frank Newcomer | Tilghman, Richard Lloyd | Mathias, Charles McCurdy | Breyer, Frank Gottlob | Brenton, Benjamin Francis Parlett | Wright, Joseph Purdon | Chesney, Alan Mason | Kelly, Caleb Guyer"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1908"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1908"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "16.25 x 20 inches (Oversize)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/1386"
+      },
+      {
+        "@value": "jhu_coll-0002_06670"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2529"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/178"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Class of 1908"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T17:10:01+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T17:10:01+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1386"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/1793",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58207"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58207"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pht": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/362?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Group photograph of faculty with their names written on the photograph. Individuals pictured include John Boswell Whitehead, Ethan Allen Andrews, Joseph Christie Whitney Frazer, Oliver Lanard Fassig, Benjamin Franklin Lovelace, William Stuart Gorton, George Ernest Barnett, Henry Slonimsky, Harry Fielding Reid, Charles David Snyder, Edward Henry Spieker, Ronald Taylor Abercrombie, Aaron Ember, E[benezer] Emmet Reid, William Henry Welch, Robert Bruce Roulston, Herbert Eveleth Greene, John Calvin French, Arthur Meyer, William Julian Albert Bliss, Henry Mifflin Thomas, Kirby Flower Smith, Joseph Sweetman Ames, Winford Henry Smith, David Moore Robinson, Ralph VanDeman Magoffin, Lorrain Sherman Hulburt, Charles Joseph Tilden, William Kurrelmeyer, Charles Kephart Swartz, Arthur Oncken Lovejoy, Wilfred Pirt Mustard, Joseph Samuel Johnson, John Holladay Latane, Hermann Collitz, Edward Franklin Buchner, Murray Peabody Brush, Edward Bennett Mathews, Franklin Paine Mall, and Frank Morley."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Faculty | Whitehead, John Boswell | Andrews, Ethan Allen | Frazer, Joseph Christie Whitney | Fassig, Oliver Lanard | Lovelace, Benjamin Franklin | Gorton, William Stuart | Barnett, George Ernest | Slonimsky, Henry | Reid, Harry Fielding | Snyder, Charles David | Spieker, Edward Henry | Abercrombie, Ronald Taylor | Ember, Aaron | Reid, E[benezer] Emmet | Welch, William Henry | Roulston, Robert Bruce | Greene, Herbert Eveleth | French, John Calvin | Meyer, Arthur | Bliss, William Julian Albert | Thomas, Henry Mifflin | Smith, Kirby Flower | Ames, Joseph Sweetman | Smith, Winford Henry | Robinson, David Moore | Magoffin, Ralph VanDeman | Hulburt, Lorrain Sherman | Tilden, Charles Joseph | Kurrelmeyer, William | Swartz, Charles Kephart | Lovejoy, Arthur Oncken | Mustard, Wilfred Pirt | Johnson, Joseph Samuel | Latane, John Holladay | Collitz, Hermann | Buchner, Edward Franklin | Brush, Murray Peabody | Mathews, Edward Bennett | Mall, Franklin Paine | Morley, Frank"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/362"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1916"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1916"
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "14 x 19 inches (Image 11 x 19 inches, Oversize)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/1793"
+      },
+      {
+        "@value": "jhu_coll-0002_06679"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of faculty"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T17:10:01+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T17:10:01+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1793"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/362",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "_:Nf47efa06b68f4bd79fd3ccb8af18edfc",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]

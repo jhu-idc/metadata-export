@@ -1,0 +1,231 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/34",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/515",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/804",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2286",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/966",
+    "@type": [
+      "pcdm:Object",
+      "http://purl.org/coar/resource_type/c_c513"
+    ],
+    "http://id.loc.gov/ontologies/bibframe/findingAid": [
+      {
+        "@id": "https://aspace.library.jhu.edu/repositories/3/resources/1099"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/identifiers/uri": [
+      {
+        "@id": "https://jscholarship.library.jhu.edu/handle/1774.2/58385"
+      },
+      {
+        "@id": "http://jhir.library.jhu.edu/handle/1774.2/58385"
+      }
+    ],
+    "http://id.loc.gov/vocabulary/relators/pht": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/804?_format=jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/abstract": [
+      {
+        "@language": "eng",
+        "@value": "Individuals pictured include Duncan Kenner Brent, Robert Marsden Smith, Edward Ayrault Robinson, Edward Herrick Griffin, William Plunket Stewart, Daniel Coit Gilman, Thomas Fitzgerald, Vincent Adams Renouf, Thomas Lindley Pyle, Harold Pender, Odin Baltimore Bestor, William Willoughby Francis, Charles Wesley Kalb, Albert Gad Stidman, Robert Henry Jones, John Howard Palmer, David Gregg McIntosh, Frederick Williamson Smith, George Barr Scholl, George Miltenberger Clarke, Alexander Lazear Seth, Zadok Marshall Ballard, Albert Charles Dieffenback, Conway Shaler Hodges, Charles Miner Stearns, Leonard Keene Hirshberg, William Trout Everett, James F. Ferguson, Solomon Brenner Myers, Ralph Duffy, Bennet Bernard Browne, Henry Wireman Cook, Raymond Durbin Miller, Victor Edgeworth Smith, Jacob Forney Young, Henry John Lucke, William Browne Hammond Jr., Gustavus Charles Dohme, Alexander Gordon Jr., James William Swaine, Reinier Koller Beeuwkes, Laurence Hall Fowler, Powhatan Johnson Woolridge, William Ellinger Straus, Stephen Paul Harwood, Philip Warner Harry, Edward Livingston Palmer Jr., James Alfred Kennard, James Girvin Peters, John Somerville Fischer, Frank Oldham Miller, Joseph Nathan Ulman, Frank Jaclard Clunet, and William Randle Hubner."
+      }
+    ],
+    "http://purl.org/dc/terms/accessRights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/172"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "eng",
+        "@value": "Original filing title: Class Photographs, 1898 | Brent, Duncan Kenner | Smith, Robert Marsden | Robinson, Edward Ayrault | Griffin, Edward Herrick | Stewart, William Plunket | Gilman, Daniel Coit | Fitzgerald, Thomas | Renouf, Vincent Adams | Pyle, Thomas Lindley | Pender, Harold | Bestor, Odin Baltimore | Francis, William Willoughby | Kalb, Charles Wesley | Stidman, Albert Gad | Jones, Robert Henry | Palmer, John Howard | McIntosh, David Gregg | Smith, Frederick Williamson | Scholl, George Barr | Clarke, George Miltenberger | Seth, Alexander Lazear | Ballard, Zadok Marshall | Dieffenback, Albert Charles | Hodges, Conway Shaler | Stearns, Charles Miner | Hirshberg, Leonard Keene | Everett, William Trout | Ferguson, James F* | Myers, Solomon Brenner | Duffy, Ralph | Browne, Bennet Bernard | Cook, Henry Wireman | Miller, Raymond Durbin | Smith, Victor Edgeworth | Young, Jacob Forney | Lucke, Henry John | Hammond, William Browne, Jr. | Dohme, Gustavus Charles | Gordon, Alexander, Jr. | Swaine, James William | Beeuwkes, Reinier Koller | Fowler, Laurence Hall | Woolridge, Powhatan Johnson | Straus, William Ellinger | Harwood, Stephen Paul | Harry, Philip Warner | Palmer, Edward Livingston, Jr. | Kennard, James Alfred | Peters, James Girvin | Fischer, John Somerville | Miller, Frank Oldham | Ulman, Joseph Nathan | Clunet, Frank Jaclard | Hubner, William Randle"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2018-04-10"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-04-10"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/804"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "@value": "1898"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1898"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "eng",
+        "@value": "File 06658_002 includes handwritten captions identifying figures in this images."
+      }
+    ],
+    "http://purl.org/dc/terms/extent": [
+      {
+        "@value": "13 x 16.5 inches (Oversize)"
+      }
+    ],
+    "http://purl.org/dc/terms/identifier": [
+      {
+        "@id": "https://digital.library.jhu.edu/node/966"
+      },
+      {
+        "@value": "jhu_coll-0002_06658"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/515"
+      }
+    ],
+    "http://purl.org/dc/terms/rights": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/177"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2529"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/178"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/3109"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Group photograph of the Class of 1898"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/2286"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:20:58+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T16:20:58+00:00"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/652"
+      },
+      {
+        "@id": "http://digital.library.jhu.edu/taxonomy/term/641"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/966"
+      }
+    ],
+    "pcdm:memberOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/34"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/2529",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/3109",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/172",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/access_rights"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/178",
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/641",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  },
+  {
+    "@id": "_:N5789e4599d7b4d0cbaaf3672703e1462",
+    "@type": [
+      "http://schema.org/Language"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/177",
+    "@type": [
+      "http://digital.library.jhu.edu/rest/type/taxonomy_term/copyright_and_use"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/taxonomy/term/652",
+    "@type": [
+      "http://schema.org/Thing"
+    ]
+  }
+]
