@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2022-03-16/jhu_coll-0008_A5999.mp4",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#ServiceFile",
+      "http://pcdm.org/use#OriginalFile"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "video/mp4"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Investment banker"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-16T15:16:58+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-16T15:16:58+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/35519"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/11918"
+      }
+    ],
+    "premis3:originalName": [
+      {
+        "@language": "en",
+        "@value": "jhu_coll-0008_A5999.mp4"
+      }
+    ],
+    "premis:hasSize": [
+      {
+        "@value": "2260078259"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "Investment banker"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/11918",
+    "@type": [
+      "pcdm:Object"
+    ]
+  }
+]

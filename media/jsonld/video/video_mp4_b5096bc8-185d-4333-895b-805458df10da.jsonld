@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2022-03-17/jhu_coll-0008_A6022.mp4",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#ServiceFile",
+      "http://pcdm.org/use#OriginalFile"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "video/mp4"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Railroad engineer"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-17T15:32:52+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-17T15:32:52+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/43430"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/11952"
+      }
+    ],
+    "premis3:originalName": [
+      {
+        "@language": "en",
+        "@value": "jhu_coll-0008_A6022.mp4"
+      }
+    ],
+    "premis:hasSize": [
+      {
+        "@value": "2336395859"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "Railroad engineer"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/11952",
+    "@type": [
+      "pcdm:Object"
+    ]
+  }
+]
