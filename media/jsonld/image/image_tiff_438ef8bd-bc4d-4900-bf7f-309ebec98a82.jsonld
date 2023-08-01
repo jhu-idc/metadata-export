@@ -1,0 +1,76 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/17221",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2022-03-28/912_7526_R659_QUARTO_c1_0.tif",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#IntermediateFile"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "image/tiff"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "912_7526_R659_QUARTO_c1.tif"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-24T20:10:09+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-28T17:57:40+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/53983"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/17221"
+      }
+    ],
+    "premis3:originalName": [
+      {
+        "@language": "en",
+        "@value": "1882_Map_Full.tif"
+      }
+    ],
+    "premis:hasSize": [
+      {
+        "@value": "855663556"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "912_7526_R659_QUARTO_c1.tif"
+      }
+    ]
+  }
+]

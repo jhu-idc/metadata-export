@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2022-03-28/G3844_B2_1909_F6a_c1_0.tif",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#IntermediateFile"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "image/tiff"
+      }
+    ],
+    "ebucore:height": [
+      {
+        "@value": "10880"
+      }
+    ],
+    "ebucore:width": [
+      {
+        "@value": "12816"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "G3844_B2_1909_F6a_c1.tif"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-24T19:56:28+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-28T17:44:20+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/53945"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/16814"
+      }
+    ],
+    "premis3:originalName": [
+      {
+        "@language": "en",
+        "@value": "Flamm1909.tif"
+      }
+    ],
+    "premis:hasSize": [
+      {
+        "@value": "415098193"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "G3844_B2_1909_F6a_c1.tif"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/16814",
+    "@type": [
+      "pcdm:Object"
+    ]
+  }
+]

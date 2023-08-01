@@ -1,0 +1,76 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/17520",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/646",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2023-02/ms404_y_r_03-18-2022_access.mp3",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#OriginalFile",
+      "http://pcdm.org/use#ServiceFile"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "audio/mpeg"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Oral history of Y.R."
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/646"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2023-02-06T16:27:00+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2023-02-06T16:38:30+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/55659"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/17520"
+      }
+    ],
+    "premis3:originalName": [
+      {
+        "@value": "ms404_y_r_03-18-2022_access.mp3 "
+      }
+    ],
+    "premis:hasSize": [
+      {
+        "@value": "127779649"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "Oral history of Y.R."
+      }
+    ]
+  }
+]
