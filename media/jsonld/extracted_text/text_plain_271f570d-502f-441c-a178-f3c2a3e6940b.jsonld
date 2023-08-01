@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/node/16010",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2022-03/16010-Extracted%20Text.txt",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#ExtractedText"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "text/plain"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "16010-Extracted Text.txt"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-19T19:57:19+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-19T19:57:19+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/51360"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/16010"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "16010-Extracted Text.txt"
+      }
+    ]
+  }
+]
