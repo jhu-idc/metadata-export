@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2022-03-11/ms404_weisfeldt_myron_09-24-2015_access_part_two.mp4",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#ServiceFile",
+      "http://pcdm.org/use#OriginalFile"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "video/mp4"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "ms404_weisfeldt_myron_09-24-2015_access_part_two.mp4"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T15:03:08+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T15:03:08+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/225"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/101"
+      }
+    ],
+    "premis3:originalName": [
+      {
+        "@language": "en",
+        "@value": "ms404_weisfeldt_myron_09-24-2015_access_part_two.mp4"
+      }
+    ],
+    "premis:hasSize": [
+      {
+        "@value": "431415024"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "ms404_weisfeldt_myron_09-24-2015_access_part_two.mp4"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/101",
+    "@type": [
+      "pcdm:Object"
+    ]
+  }
+]
