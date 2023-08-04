@@ -1,0 +1,76 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/79",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2022-03-11/ms404_balachandran_sanchita_shapiro_h_alan_05-05-2014.pdf",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#Transcript"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "application/pdf"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "ms404_balachandran_sanchita_shapiro_h_alan_05-05-2014.pdf"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:39:03+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:39:03+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/20"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/79"
+      }
+    ],
+    "premis3:originalName": [
+      {
+        "@language": "en",
+        "@value": "ms404_balachandran_sanchita_shapiro_h_alan_05-05-2014.pdf"
+      }
+    ],
+    "premis:hasSize": [
+      {
+        "@value": "258752"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "ms404_balachandran_sanchita_shapiro_h_alan_05-05-2014.pdf"
+      }
+    ]
+  }
+]
