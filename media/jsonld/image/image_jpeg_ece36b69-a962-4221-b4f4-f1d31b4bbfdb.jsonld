@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/1514",
+    "@type": [
+      "pcdm:Object"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2022-03/1514-Service%20File.jpg",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#ServiceFile"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "image/jpeg"
+      }
+    ],
+    "ebucore:height": [
+      {
+        "@value": "6453"
+      }
+    ],
+    "ebucore:width": [
+      {
+        "@value": "3796"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "1514-Service File.jpg"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T20:45:27+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T20:45:27+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/4635"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/1514"
+      }
+    ],
+    "premis:hasSize": [
+      {
+        "@value": "1742067"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "1514-Service File.jpg"
+      }
+    ]
+  }
+]

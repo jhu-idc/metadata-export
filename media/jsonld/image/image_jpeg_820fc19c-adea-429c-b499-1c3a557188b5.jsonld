@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2022-03-14/jhu_coll-0002_12971.jpg",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#OriginalFile"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "image/jpeg"
+      }
+    ],
+    "ebucore:height": [
+      {
+        "@value": "1839"
+      }
+    ],
+    "ebucore:width": [
+      {
+        "@value": "1071"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "jhu_coll-0002_12971.jpg"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-14T18:35:55+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-14T18:35:55+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/24260"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/3178"
+      }
+    ],
+    "premis3:originalName": [
+      {
+        "@language": "en",
+        "@value": "jhu_coll-0002_12971.jpg"
+      }
+    ],
+    "premis:hasSize": [
+      {
+        "@value": "105526"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "jhu_coll-0002_12971.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/3178",
+    "@type": [
+      "pcdm:Object"
+    ]
+  }
+]

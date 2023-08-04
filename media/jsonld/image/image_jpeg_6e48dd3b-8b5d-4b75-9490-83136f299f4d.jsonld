@@ -1,11 +1,5 @@
 [
   {
-    "@id": "http://digital.library.jhu.edu/node/5500",
-    "@type": [
-      "pcdm:Object"
-    ]
-  },
-  {
     "@id": "http://digital.library.jhu.edu/system/files/2022-03/5500-Service%20File.jpg",
     "@type": [
       "pcdm:File",
@@ -75,6 +69,12 @@
     "@id": "http://digital.library.jhu.edu/user/534",
     "@type": [
       "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/5500",
+    "@type": [
+      "pcdm:Object"
     ]
   }
 ]
