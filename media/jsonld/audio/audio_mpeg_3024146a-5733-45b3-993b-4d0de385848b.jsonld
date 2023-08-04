@@ -1,0 +1,76 @@
+[
+  {
+    "@id": "http://digital.library.jhu.edu/system/files/2022-03-11/ms404_schnydman_jerome_06-17-1999_access.mp3",
+    "@type": [
+      "pcdm:File",
+      "http://pcdm.org/use#ServiceFile",
+      "http://pcdm.org/use#OriginalFile"
+    ],
+    "ebucore:hasMimeType": [
+      {
+        "@value": "audio/mpeg"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "ms404_schnydman_jerome_06-17-1999_access.mp3"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://digital.library.jhu.edu/user/534"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:51:14+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-11T14:51:14+00:00"
+      }
+    ],
+    "iana:describedby": [
+      {
+        "@id": "http://digital.library.jhu.edu/media/199"
+      }
+    ],
+    "pcdm:fileOf": [
+      {
+        "@id": "http://digital.library.jhu.edu/node/85"
+      }
+    ],
+    "premis3:originalName": [
+      {
+        "@value": "ms404_schnydman_jerome_06-17-1999_access.mp3"
+      }
+    ],
+    "premis:hasSize": [
+      {
+        "@value": "111105765"
+      }
+    ],
+    "rdf:label": [
+      {
+        "@language": "en",
+        "@value": "ms404_schnydman_jerome_06-17-1999_access.mp3"
+      }
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/user/534",
+    "@type": [
+      "http://schema.org/Person"
+    ]
+  },
+  {
+    "@id": "http://digital.library.jhu.edu/node/85",
+    "@type": [
+      "pcdm:Object"
+    ]
+  }
+]
